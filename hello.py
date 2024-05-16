@@ -1,0 +1,1 @@
+print "Christ is Lord"
